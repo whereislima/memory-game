@@ -7,16 +7,16 @@ let clicking = false;
 
 
 const COLORS = [
-  "red",
-  "blue",
-  "green",
-  "orange",
-  "purple",
-  "red",
-  "blue",
-  "green",
-  "orange",
-  "purple"
+  "mediumvioletred",
+  "aqua",
+  "aquamarine",
+  "rosybrown",
+  "mediumslateblue",
+  "mediumvioletred",
+  "aqua",
+  "aquamarine",
+  "rosybrown",
+  "mediumslateblue"
 ];
 
 // here is a helper function to shuffle an array
