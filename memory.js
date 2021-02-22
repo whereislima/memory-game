@@ -8,12 +8,12 @@ let clicking = false;
 
 const COLORS = [
   "mediumvioletred",
-  "aqua",
+  "teal",
   "aquamarine",
   "rosybrown",
   "mediumslateblue",
   "mediumvioletred",
-  "aqua",
+  "teal",
   "aquamarine",
   "rosybrown",
   "mediumslateblue"
